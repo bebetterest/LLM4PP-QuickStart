@@ -5,5 +5,3 @@ Nowadays, LLMs (Large Language Models) seem to be one of the most popular themes
 Under this circumstance, it may be interesting to apply LLMs to your works/studies/projects and **explore whether the perception and analysis inside a LLM would improve the target performance**.
 
 At the beginning, even without much knowledge on LLMs, as long as knowing that LLMs could predict/generate texts, you could easily utilize a **LLM for** a **P**rocess **P**ipeline (**LLM4PP**) based on ready-made APIs and easy-to-use libraries. In this article, I will provide a quick start on that with some personal thoughts. I hope you could enjoy here! GLHF!
-
-P.S. : Since I am a complete noob instead of a master, because of potential mistakes, this article is **for reference only**. I would appreciate it if you are willing to help by providing feedbacks/suggestions to bebetterest+at+outlook.com .
